@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero img {
+    width: 100%;
+}
+
+.header {
+    background-color: #0000003b;
+}
+
